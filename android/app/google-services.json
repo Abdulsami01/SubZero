@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176208895780",
+    "project_id": "subzero-9dce4",
+    "storage_bucket": "subzero-9dce4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176208895780:android:a1b8467344f0736e97ddb1",
+        "android_client_info": {
+          "package_name": "com.subzero.gaming.subzero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhXHLT-aoPG7HfcyN1oiRiO37xEHWZzk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
